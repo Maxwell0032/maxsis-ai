@@ -1,3 +1,19 @@
+## 🚀 Live Prototype Status
+
+Maxsis AI currently includes a working financial risk scoring engine.
+
+The prototype can:
+
+• ingest structured financial CSV data  
+• calculate liquidity runway and burn-rate pressure  
+• detect statistical anomalies in expense patterns  
+• classify organizational financial risk  
+• generate CFO-style narrative risk summaries  
+
+This repository represents an active proof-of-concept build submitted
+as part of institutional transparency and financial resilience research.
+
+A lightweight demo dataset is included in `/data/sample_financials.csv`.
 \# Maxsis AI
 
 
